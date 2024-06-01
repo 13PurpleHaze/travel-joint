@@ -1,0 +1,2 @@
+npx nx format:write --projects mobile
+npx nx lint mobile --fix
