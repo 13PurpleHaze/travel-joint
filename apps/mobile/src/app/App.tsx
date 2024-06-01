@@ -7,7 +7,7 @@ export const App = () => {
   const [whatsNextYCoord, setWhatsNextYCoord] = useState<number>(0);
   const scrollViewRef = useRef<null | ScrollView>(null);
   // TODO: что
-      const m = 'Москва';
+       const m = 'Москва';
   return (
     <>
       <StatusBar barStyle='dark-content' />
