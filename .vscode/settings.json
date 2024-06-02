@@ -3,7 +3,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
   // Форматирование при сохранении файла
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
 
   // Проверка орфографии с помощью Code Spell Checker
   "cSpell.language": "en,ru",
